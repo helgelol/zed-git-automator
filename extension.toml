@@ -1,0 +1,14 @@
+id = "git-automator"
+name = "Git Automator"
+version = "1.0.0"
+schema_version = 1
+description = "Hotkeys for adding, commiting and pushing in Git"
+repository = "https://github.com/helgelol/zed-git-automator"
+authors = ["Helge F <helge@kubes.no>"]
+languages = []
+
+[lib]
+
+[grammars]
+
+[language_servers]
